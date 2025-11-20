@@ -19,6 +19,7 @@ Dataset Size: 200 rows, 2 columns
 The workflow includes data analysis, model training, saving the model, and deploying it using Streamlit.
 
 📂 Project Structure
+
 Simple_Linear_Regression/
 │
 ├── Single Linear Regression.ipynb  
