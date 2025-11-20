@@ -54,7 +54,7 @@ Click Predict
 
 Get the salary package output
 
-🛠 Tech Stack 
+🛠 Tech Stack :  
 Python, Pandas, NumPy, Scikit-Learn, Streamlit, Joblib, Jupyter Notebook
 
 📈 Insights
