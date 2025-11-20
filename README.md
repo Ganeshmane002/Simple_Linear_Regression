@@ -21,7 +21,7 @@ The workflow includes data analysis, model training, saving the model, and deplo
 📂 Project Structure
 
 Simple_Linear_Regression/
-│
+
 ├── Single Linear Regression.ipynb  
 ├── app.py                         
 ├── regression_model.joblib         
