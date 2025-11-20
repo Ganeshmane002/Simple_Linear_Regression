@@ -21,20 +21,12 @@ The workflow includes data analysis, model training, saving the model, and deplo
 📂 Project Structure
 Simple_Linear_Regression/
 │
-├── Single Linear Regression.ipynb   # Training notebook
-├── app.py                           # Streamlit web app
-├── regression_model.joblib          # Saved ML model
-├── requirements.txt                 # Dependencies
+├── Single Linear Regression.ipynb  
+├── app.py                         
+├── regression_model.joblib         
+├── requirements.txt               
 ├── .gitignore
 └── README.md
-
-📊 Dataset Example
-cgpa	package
-6.89	3.26
-5.12	1.98
-7.82	3.25
-7.42	3.67
-6.94	3.57
 
 The model learns the relationship between CGPA and salary package.
 
@@ -47,6 +39,7 @@ Evaluated using: R² Score, MAE, MSE
 Saved with: joblib.dump(model, "regression_model.joblib")
 
 🚀 How to Run the Streamlit App
+
 1️⃣ Install requirements
 pip install -r requirements.txt
 
