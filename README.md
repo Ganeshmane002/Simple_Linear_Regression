@@ -27,7 +27,7 @@
 ├── regression_model.joblib         
 ├── requirements.txt               
 ├── .gitignore
-└── README.md
+
 
 - The model learns the relationship between CGPA and salary package.
 
